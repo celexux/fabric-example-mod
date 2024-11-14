@@ -1,4 +1,4 @@
-package com.example;
+package com.celexux;
 
 import net.fabricmc.api.ModInitializer;
 
